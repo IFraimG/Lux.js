@@ -1,7 +1,9 @@
 import { init } from "./framework";
 import { p } from "./framework/element";
+import { User } from "./src/user";
 
-const firstname = "Pushok"
-const lastname = "Stanishkin"
+const firstName = "Pushok"
+const lastName = "Stanishkin"
 
-init("#app", p`Hello ${firstname} ${lastname} !`)
+
+init("#app", User({ firstName, lastName }))

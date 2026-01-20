@@ -8367,9 +8367,10 @@ slice-ansi@1.0.0:
   dependencies:
     is-fullwidth-code-point "^2.0.0"
 
-snabbdom@^0.7.1:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/snabbdom/-/snabbdom-0.7.1.tgz#c1e9eddfad2c02ebc2cf66aaefb040419d059597"
+snabbdom@^3.6.3:
+  version "3.6.3"
+  resolved "https://registry.yarnpkg.com/snabbdom/-/snabbdom-3.6.3.tgz#1cdcd0a7188d3590da77e1fad87dbcc026b87b26"
+  integrity sha512-W2lHLLw2qR2Vv0DcMmcxXqcfdBaIcoN+y/86SmHv8fn4DazEQSH6KN3TjZcWvwujW56OHiiirsbHWZb4vx/0fg==
 
 snapdragon-node@^2.0.1:
   version "2.1.1"
